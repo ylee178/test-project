@@ -1,0 +1,45 @@
+
+.starter-template {
+	padding: 10% 8%;
+	text-align: center;
+}
+
+.row {
+	margin: 7%;
+}
+
+.contents {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 80%;
+}
+
+.item img {
+	width: 100%;
+}
+
+.btn-danger {
+	width: auto;
+	height: auto;
+	margin-top: 3%;
+
+}
+
+.mobilenav {
+ 	padding: 16%;
+	width: 86%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.btn-danger {
+	margin: 6%;
+	max-width: ;
+	padding: 20%;
+}
+
+@media (max-width: 550px) {
+	.mobilenav {
+		display:none;
+	}
+}
